@@ -8,7 +8,8 @@ Cette émulateur est open source pour tous le monde.
 Merci de pas le vendre, vous avez reçu gratuitement, donnez gratuitement 🤗.
 Cet emulateur login est developpé pour un client 1.34.1.<br>
 Il est lié au GitHub game suivant :<br>
-Cliquez sur ce lien pour voir le GitHub du login : [AegnorLogin](https://github.com/arwase/aegnor_gameV2) <br>
+Cliquez sur ce lien pour voir le GitHub du game : [AegnorGame](https://github.com/arwase/aegnor_gameV2) <br>
+
 Ce login n'a pas été developpé par moi, il est un fork du travail de Locos.
 
 ## Informations :
